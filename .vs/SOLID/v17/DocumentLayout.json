@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\solid\\solid.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:solid.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SOLID",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\SOLID.csproj",
+              "RelativeDocumentMoniker": "SOLID.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\SOLID.csproj",
+              "RelativeToolTip": "SOLID.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T14:31:59.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
