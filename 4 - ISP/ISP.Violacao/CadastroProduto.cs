@@ -9,7 +9,7 @@ namespace SOLID.ISP.Violacao
 
         public void SalvarBanco()
         {
-            // Insert tabela Produto
+            // Insert tabela Produto 
         }
 
         public void EnviarEmail()

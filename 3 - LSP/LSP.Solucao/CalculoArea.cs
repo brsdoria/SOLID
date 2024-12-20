@@ -1,6 +1,6 @@
 ﻿namespace SOLID.LSP.Solucao
 {
-    public class CalculoArea
+    public class CalculoArea 
     {
         private static void ObterAreaParalelogramo(Paralelogramo ret)
         {

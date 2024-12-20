@@ -1,4 +1,4 @@
-namespace SOLID.DIP.Solucao.Interfaces
+namespace SOLID.DIP.Solucao.Interfaces 
 {
     public interface IEmailServices
     {

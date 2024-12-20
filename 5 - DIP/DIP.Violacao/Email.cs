@@ -1,4 +1,4 @@
-namespace SOLID.DIP.Violacao
+namespace SOLID.DIP.Violacao 
 {
     public class Email
     {

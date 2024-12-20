@@ -1,6 +1,6 @@
 ﻿namespace SOLID.ISP.Violacao
 {
-    public interface ICadastro
+    public interface ICadastro 
     {
         void ValidarDados();
         void SalvarBanco();

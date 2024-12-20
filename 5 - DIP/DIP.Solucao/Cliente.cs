@@ -1,7 +1,4 @@
-﻿using System;
-using SOLID.DIP.Solucao.Interfaces;
-
-namespace SOLID.DIP.Solucao
+﻿namespace SOLID.DIP.Solucao
 {
     public class Cliente
     {

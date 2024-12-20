@@ -7,7 +7,7 @@
             // Validar CPF, Email
         }
 
-        public void SalvarBanco()
+        public void SalvarBanco() 
         {
             // Insert na tabela Cliente
         }

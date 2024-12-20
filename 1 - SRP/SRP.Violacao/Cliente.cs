@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using System.Net.Mail;
 
-namespace SOLID.SRP.Violacao
+namespace SOLID.SRP.Violacao 
 {
     public class Cliente
     {

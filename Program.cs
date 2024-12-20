@@ -1,4 +1,4 @@
-﻿//using SOLID.LSP.Violacao;
+﻿//using SOLID.LSP.Violacao; 
 using SOLID.OCP.Solucao_Extension_Methods;
 using CalculoArea = SOLID.LSP.Solucao.CalculoArea;
 

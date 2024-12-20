@@ -4,4 +4,4 @@ namespace SOLID.DIP.Solucao.Interfaces
     {
         void AdicionarCliente(Cliente cliente);
     }
-}
+} 

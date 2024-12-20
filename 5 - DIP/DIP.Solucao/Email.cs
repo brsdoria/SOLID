@@ -1,4 +1,4 @@
-namespace SOLID.DIP.Solucao
+namespace SOLID.DIP.Solucao 
 {
     public class Email
     {

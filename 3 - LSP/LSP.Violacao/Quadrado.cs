@@ -1,6 +1,6 @@
 ﻿namespace SOLID.LSP.Violacao
 {
-    public class Quadrado : Retangulo
+    public class Quadrado : Retangulo 
     {
         public override double Altura
         {

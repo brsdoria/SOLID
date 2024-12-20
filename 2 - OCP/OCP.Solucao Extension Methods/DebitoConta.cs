@@ -1,6 +1,6 @@
 ﻿namespace SOLID.OCP.Solucao_Extension_Methods
 {
-    public class DebitoConta
+    public class DebitoConta 
     {
         public string NumeroConta { get; set; }
         public decimal Valor { get; set; }

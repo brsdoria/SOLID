@@ -1,6 +1,6 @@
 ﻿namespace SOLID.OCP.Solucao_Extension_Methods
 {
-    public static class DebitoContaCorrente
+    public static class DebitoContaCorrente 
     {
         public static string DebitarContaCorrente(this DebitoConta debitoConta)
         {

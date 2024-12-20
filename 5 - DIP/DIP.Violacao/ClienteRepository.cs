@@ -1,7 +1,7 @@
 using System.Data;
 using System.Data.SqlClient;
 
-namespace SOLID.DIP.Violacao
+namespace SOLID.DIP.Violacao 
 {
     public class ClienteRepository
     {

@@ -1,6 +1,6 @@
 ﻿namespace SOLID.LSP.Solucao
 {
-    public abstract class Paralelogramo
+    public abstract class Paralelogramo 
     {
         protected Paralelogramo(int altura, int largura)
         {

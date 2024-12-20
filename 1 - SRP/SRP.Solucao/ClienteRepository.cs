@@ -1,7 +1,7 @@
 using System.Data;
 using System.Data.SqlClient;
 
-namespace SOLID.SRP.Solucao
+namespace SOLID.SRP.Solucao 
 {
     public class ClienteRepository
     {

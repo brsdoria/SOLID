@@ -2,7 +2,7 @@ using SOLID.ISP.Solucao.Interfaces;
 
 namespace SOLID.ISP.Solucao
 {
-    public class CadastroProduto : ICadastroProduto
+    public class CadastroProduto : ICadastroProduto 
     {
         public void ValidarDados()
         {

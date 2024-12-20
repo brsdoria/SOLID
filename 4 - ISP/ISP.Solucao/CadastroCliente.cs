@@ -1,6 +1,6 @@
 ﻿using SOLID.ISP.Solucao.Interfaces;
 
-namespace SOLID.ISP.Solucao
+namespace SOLID.ISP.Solucao 
 {
     public class CadastroCliente : ICadastroCliente
     {

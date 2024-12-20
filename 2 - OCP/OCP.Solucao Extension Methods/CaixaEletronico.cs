@@ -1,6 +1,6 @@
 ﻿namespace SOLID.OCP.Solucao_Extension_Methods
 {
-    public class CaixaEletronico
+    public class CaixaEletronico 
     {
         public static void Operacoes()
         {

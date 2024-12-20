@@ -1,6 +1,6 @@
 ﻿namespace SOLID.LSP.Violacao
 {
-    public class CalculoArea
+    public class CalculoArea 
     {
         private static void ObterAreaRetangulo(Retangulo ret)
         {

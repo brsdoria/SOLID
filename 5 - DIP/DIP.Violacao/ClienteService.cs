@@ -1,6 +1,6 @@
 ﻿namespace SOLID.DIP.Violacao
 {
-    public class ClienteService
+    public class ClienteService 
     {
         public string AdicionarCliente(Cliente cliente)
         {

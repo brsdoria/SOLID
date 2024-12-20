@@ -1,4 +1,4 @@
-﻿namespace SOLID.OCP.Solucao
+﻿namespace SOLID.OCP.Solucao 
 {
     public class DebitoContaCorrente : DebitoConta
     {

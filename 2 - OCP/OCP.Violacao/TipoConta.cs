@@ -1,6 +1,6 @@
 ﻿namespace SOLID.OCP.Violacao
 {
-    public enum TipoConta
+    public enum TipoConta 
     {
         Corrente,
         Poupanca

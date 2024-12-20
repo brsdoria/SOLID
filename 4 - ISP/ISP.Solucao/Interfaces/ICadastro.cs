@@ -1,4 +1,4 @@
-﻿namespace SOLID.ISP.Solucao.Interfaces
+﻿namespace SOLID.ISP.Solucao.Interfaces 
 {
     public interface ICadastro
     {
