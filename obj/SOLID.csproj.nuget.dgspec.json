@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\SOLID.csproj": {}
+    "C:\\GITHUB\\SOLID\\SOLID.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\SOLID.csproj": {
+    "C:\\GITHUB\\SOLID\\SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\SOLID.csproj",
+        "projectUniqueName": "C:\\GITHUB\\SOLID\\SOLID.csproj",
         "projectName": "SOLID",
-        "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\SOLID.csproj",
+        "projectPath": "C:\\GITHUB\\SOLID\\SOLID.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\SOLID\\obj\\",
+        "outputPath": "C:\\GITHUB\\SOLID\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
