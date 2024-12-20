@@ -1,18 +1,218 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GITHUB\\SOLID\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\github\\solid\\3 - lsp\\lsp.violacao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.violacao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\github\\solid\\3 - lsp\\lsp.violacao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.violacao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.violacao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.violacao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.violacao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.violacao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.violacao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.violacao\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.violacao\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.violacao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.violacao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.violacao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.violacao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\clienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\clienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\clienterepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\clienterepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\interfaces\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\interfaces\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\interfaces\\iclienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\interfaces\\iclienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\5 - dip\\dip.solucao\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:5 - dip\\dip.solucao\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.violacao\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.violacao\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.violacao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.violacao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.violacao\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.violacao\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.solucao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.solucao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.solucao\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.solucao\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.solucao\\interfaces\\icadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.solucao\\interfaces\\icadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.solucao\\interfaces\\icadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.solucao\\interfaces\\icadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\4 - isp\\isp.solucao\\interfaces\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:4 - isp\\isp.solucao\\interfaces\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\3 - lsp\\lsp.violacao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.violacao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\github\\solid\\3 - lsp\\lsp.violacao\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\3 - lsp\\lsp.violacao\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.violacao\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\3 - lsp\\lsp.violacao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.violacao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\3 - lsp\\lsp.solucao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.solucao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\3 - lsp\\lsp.solucao\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.solucao\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\3 - lsp\\lsp.solucao\\paralelogramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.solucao\\paralelogramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\3 - lsp\\lsp.solucao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:3 - lsp\\lsp.solucao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.violacao\\tipoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.violacao\\tipoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.violacao\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.violacao\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao extension methods\\debitocontapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao extension methods\\debitocontapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao extension methods\\debitocontainvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao extension methods\\debitocontainvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao extension methods\\debitocontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao extension methods\\debitocontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao extension methods\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao extension methods\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao extension methods\\caixaeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao extension methods\\caixaeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao\\debitocontapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao\\debitocontapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao\\debitocontainvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao\\debitocontainvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao\\debitocontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao\\debitocontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\2 - ocp\\ocp.solucao\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:2 - ocp\\ocp.solucao\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\1 - srp\\srp.violacao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:1 - srp\\srp.violacao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\1 - srp\\srp.solucao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:1 - srp\\srp.solucao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\1 - srp\\srp.solucao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:1 - srp\\srp.solucao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\1 - srp\\srp.solucao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:1 - srp\\srp.solucao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\1 - srp\\srp.solucao\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:1 - srp\\srp.solucao\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\1 - srp\\srp.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:1 - srp\\srp.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|c:\\users\\user\\desktop\\github\\publicados\\solid\\1 - srp\\srp.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D897FE81-631B-409F-9020-7021C5B8F174}|SOLID.csproj|solutionrelative:1 - srp\\srp.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +222,695 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SOLID",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\SOLID.csproj",
+              "RelativeDocumentMoniker": "SOLID.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\SOLID.csproj",
+              "RelativeToolTip": "SOLID.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T23:42:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Retangulo.cs",
-              "DocumentMoniker": "C:\\GITHUB\\SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
-              "RelativeDocumentMoniker": "3 - LSP\\LSP.Violacao\\Retangulo.cs",
-              "ToolTip": "C:\\GITHUB\\SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
-              "RelativeToolTip": "3 - LSP\\LSP.Violacao\\Retangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:51:54.02Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-20T23:42:41.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Quadrado.cs",
-              "DocumentMoniker": "C:\\GITHUB\\SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
-              "RelativeDocumentMoniker": "3 - LSP\\LSP.Violacao\\Quadrado.cs",
-              "ToolTip": "C:\\GITHUB\\SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
-              "RelativeToolTip": "3 - LSP\\LSP.Violacao\\Quadrado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:51:49.555Z",
+              "WhenOpened": "2024-12-20T23:42:36.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-20T23:42:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\EmailServices.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Violacao\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\EmailServices.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Violacao\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:42:25.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\Email.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Violacao\\Email.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\Email.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Violacao\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:42:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CPF.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\CPF.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Violacao\\CPF.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\CPF.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Violacao\\CPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:42:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\ClienteService.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Violacao\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\ClienteService.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Violacao\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:42:14.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Violacao\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\ClienteRepository.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Violacao\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:42:09.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\Cliente.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Violacao\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Violacao\\Cliente.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Violacao\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:42:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:58.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Email.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\Email.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Email.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:55.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CPF.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\CPF.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\CPF.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\CPF.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\CPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:51.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteRepository2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:44.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:39.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:30.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:25.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IClienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:22.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:41:04.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICadastro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:55.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Violacao\\CadastroCliente.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Violacao\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Violacao\\CadastroCliente.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Violacao\\CadastroCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:48.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:36.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:31.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICadastro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "RelativeDocumentMoniker": "4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "RelativeToolTip": "4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:20.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "RelativeDocumentMoniker": "3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "RelativeToolTip": "3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:06.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "RelativeDocumentMoniker": "3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "RelativeToolTip": "3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:40:01.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "CalculoArea.cs",
-              "DocumentMoniker": "C:\\GITHUB\\SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
               "RelativeDocumentMoniker": "3 - LSP\\LSP.Violacao\\CalculoArea.cs",
-              "ToolTip": "C:\\GITHUB\\SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
               "RelativeToolTip": "3 - LSP\\LSP.Violacao\\CalculoArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:57.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\Retangulo.cs",
+              "RelativeDocumentMoniker": "3 - LSP\\LSP.Solucao\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\Retangulo.cs",
+              "RelativeToolTip": "3 - LSP\\LSP.Solucao\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:51.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\Quadrado.cs",
+              "RelativeDocumentMoniker": "3 - LSP\\LSP.Solucao\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\Quadrado.cs",
+              "RelativeToolTip": "3 - LSP\\LSP.Solucao\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Paralelogramo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "RelativeDocumentMoniker": "3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "RelativeToolTip": "3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:38.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CalculoArea.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "RelativeDocumentMoniker": "3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "RelativeToolTip": "3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:34.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TipoConta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Violacao\\TipoConta.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Violacao\\TipoConta.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Violacao\\TipoConta.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Violacao\\TipoConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:27.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DebitoConta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Violacao\\DebitoConta.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Violacao\\DebitoConta.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Violacao\\DebitoConta.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Violacao\\DebitoConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DebitoContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaPoupanca.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaPoupanca.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:18.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DebitoContaInvestimento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaInvestimento.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaInvestimento.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaInvestimento.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaInvestimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:15.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DebitoContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaCorrente.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaCorrente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaCorrente.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DebitoConta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoConta.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoConta.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\DebitoConta.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao Extension Methods\\DebitoConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:39:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CaixaEletronico.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:57.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DebitoContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoContaPoupanca.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao\\DebitoContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoContaPoupanca.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao\\DebitoContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:46.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DebitoContaInvestimento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoContaInvestimento.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao\\DebitoContaInvestimento.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoContaInvestimento.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao\\DebitoContaInvestimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DebitoContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoContaCorrente.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao\\DebitoContaCorrente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoContaCorrente.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao\\DebitoContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DebitoConta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoConta.cs",
+              "RelativeDocumentMoniker": "2 - OCP\\OCP.Solucao\\DebitoConta.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoConta.cs",
+              "RelativeToolTip": "2 - OCP\\OCP.Solucao\\DebitoConta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:51:45.836Z",
+              "WhenOpened": "2024-12-20T23:38:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "RelativeDocumentMoniker": "1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "RelativeToolTip": "1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\EmailServices.cs",
+              "RelativeDocumentMoniker": "1 - SRP\\SRP.Solucao\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\EmailServices.cs",
+              "RelativeToolTip": "1 - SRP\\SRP.Solucao\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\Email.cs",
+              "RelativeDocumentMoniker": "1 - SRP\\SRP.Solucao\\Email.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\Email.cs",
+              "RelativeToolTip": "1 - SRP\\SRP.Solucao\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:38:03.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CPF.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\CPF.cs",
+              "RelativeDocumentMoniker": "1 - SRP\\SRP.Solucao\\CPF.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\CPF.cs",
+              "RelativeToolTip": "1 - SRP\\SRP.Solucao\\CPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:37:59.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\ClienteService.cs",
+              "RelativeDocumentMoniker": "1 - SRP\\SRP.Solucao\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\ClienteService.cs",
+              "RelativeToolTip": "1 - SRP\\SRP.Solucao\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:37:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "RelativeToolTip": "1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:37:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "RelativeDocumentMoniker": "1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "RelativeToolTip": "1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:37:45.354Z",
               "EditorCaption": ""
             }
           ]
