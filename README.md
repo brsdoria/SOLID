@@ -11,7 +11,7 @@ Demonstração da aplicabilidade dos princípios do SOLID por meio de exemplos q
 * [net6.0](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6) - Versão da plataforma de desenvolvimento .NET, que é de código aberto e multiplataforma, desenvolvida pela Microsoft.
 
 ```
-
+dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
 ```
 
 * [System.Data.SqlClient](https://learn.microsoft.com/pt-br/dotnet/api/system.data.sqlclient?view=windowsdesktop-9.0) - Provedor de dados do .NET para SQL Server com objetovo de acessar um banco de dados do SQL Server.

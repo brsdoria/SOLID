@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SOLID",
+              "Title": "SOLID.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\SOLID.csproj",
               "RelativeDocumentMoniker": "SOLID.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\SOLID.csproj",
               "RelativeToolTip": "SOLID.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-21T15:44:35.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T15:44:35.254Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\SOLID\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-12-21T15:33:13.128Z",
               "EditorCaption": ""
