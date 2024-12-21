@@ -11,13 +11,13 @@ Demonstração da aplicabilidade dos princípios do SOLID por meio de exemplos q
 * [net6.0](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6) - Foi utilizada essa versão do .NET como plataforma de desenvolvimento da Microsoft, usada para criar e executar aplicações multiplataforma, como aplicativos web, desktop, móveis, jogos e serviços em nuvem. 
 
 ```
-NuGet\Install-Package Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 -Version 8.0.0
-```
-
-* [System.Data.SqlClient](https://learn.microsoft.com/pt-br/dotnet/api/system.data.sqlclient?view=windowsdesktop-9.0) - Foi utilizado esse namespace do .NET Framework para acessar e manipular dados em um banco de dados SQL Server.
 
 ```
-NuGet\Install-Package Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 -Version 8.0.0
+
+* [System.Data.SqlClient](https://learn.microsoft.com/pt-br/dotnet/api/system.data.sqlclient?view=windowsdesktop-9.0) - Foi utilizado esse provedor de dados do .NET para SQL Server com objetovo de acessar um banco de dados do SQL Server.
+
+```
+NuGet\Install-Package System.Data.SqlClient -Version 4.9.0
 ```
 
 ## ⚠️ Atenção
