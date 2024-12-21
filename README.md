@@ -20,6 +20,13 @@ Demonstração da aplicabilidade dos princípios do SOLID por meio de exemplos q
 NuGet\Install-Package System.Data.SqlClient -Version 4.9.0
 ```
 
+## 🚧 Descrição da Estrutura do Projeto
+
+A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
+
+![EstruturaDoProjeto](screenshots/estrutura.png)
+
+
 ## ⚠️ Atenção
 
 Destinado exclusivamente para fins de estudo.
